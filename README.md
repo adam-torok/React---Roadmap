@@ -15,6 +15,9 @@
 ## React serires
 - https://www.youtube.com/watch?v=1wZoGFF_oi4 list=PLZlA0Gpn_vH_NT5zPVp18nGe_W9LqBDQK
 
+## Max series
+- https://www.youtube.com/watch?v=4baq00tHfmA&ab_channel=Academind
+
 ## Learn vitest
 - https://vitest.dev
 - https://www.youtube.com/watch?v=7f-71kYhK00&list=PLZlA0Gpn_vH_63f0HH-dUtkininO7GO6f&index=2
