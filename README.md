@@ -4,19 +4,12 @@
 # Videos
 
 ## React JS Full Course 2023 | Build an App and Master React in 1 Hour
-- https://www.youtube.com/watch?v=b9eMGE7QtTk
+- ✅ https://www.youtube.com/watch?v=b9eMGE7QtTk
+- ✅ https://www.youtube.com/watch?v=4baq00tHfmA&ab_channel=Academind
+- https://www.youtube.com/watch?v=XrwsMN2IWnE&list=PLSDeUiTMfxW4zCLgOQgz4PWSN0QRmUUFR&index=3
 
-## React Tutorial for Beginners
-- https://www.youtube.com/watch?v=SqcY0GlETPk
-
-## Learn React With This One Project
-- https://www.youtube.com/watch?v=Rh3tobg7hEo
-
-## React serires
-- https://www.youtube.com/watch?v=1wZoGFF_oi4 list=PLZlA0Gpn_vH_NT5zPVp18nGe_W9LqBDQK
-
-## Max series
-- https://www.youtube.com/watch?v=4baq00tHfmA&ab_channel=Academind
+## Typescript
+- https://www.youtube.com/watch?v=zeCDuo74uzA&list=PLSDeUiTMfxW4zCLgOQgz4PWSN0QRmUUFR&index=2
 
 ## Learn vitest
 - https://vitest.dev
