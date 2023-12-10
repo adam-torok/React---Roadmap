@@ -9,7 +9,7 @@
 - https://www.youtube.com/watch?v=XrwsMN2IWnE&list=PLSDeUiTMfxW4zCLgOQgz4PWSN0QRmUUFR&index=3
 
 ## Typescript
-- https://www.youtube.com/watch?v=zeCDuo74uzA&list=PLSDeUiTMfxW4zCLgOQgz4PWSN0QRmUUFR&index=2
+- ✅ https://www.youtube.com/watch?v=zeCDuo74uzA&list=PLSDeUiTMfxW4zCLgOQgz4PWSN0QRmUUFR&index=2
 
 ## Learn vitest
 - https://vitest.dev
