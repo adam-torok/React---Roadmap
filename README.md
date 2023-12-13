@@ -14,7 +14,9 @@
 ## Learn vitest
 - https://vitest.dev
 - https://www.youtube.com/watch?v=7f-71kYhK00&list=PLZlA0Gpn_vH_63f0HH-dUtkininO7GO6f&index=2
-- https://www.youtube.com/watch?v=4WltCTAy9QI
+- https://www.youtube.com/watch?v=4WltCTAy9QI\
+
+## Maximilian course on udemy 🚧
 
 # Official docs
 - https://react.dev
